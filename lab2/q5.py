@@ -11,7 +11,7 @@ my_dict["location"] = my_dict.pop("city")
 print("\n5.i. After renaming city to location:", my_dict)
 
 # ii. 
-my_dict["cgpa"] = 9.0 
+my_dict["cgpa"] = 9.92
 print("5.ii. After adding cgpa:", my_dict)
 
 # iii. 

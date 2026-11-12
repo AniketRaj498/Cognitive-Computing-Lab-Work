@@ -1,9 +1,9 @@
 my_dict = {
     "name": "Aniket Raj",
     "roll_no": "1024170146",
-    "branch": "<fill branch here>", 
+    "branch": "COPC", 
     "age": 20, 
-    "city": "<fill city here>" 
+    "city": "<Patiala" 
 }
 
 # i. 
